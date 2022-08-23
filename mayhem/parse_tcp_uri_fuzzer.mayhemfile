@@ -1,0 +1,4 @@
+project: PROJECT
+target: parse_tcp_uri_fuzzer
+cmds:
+- cmd: /out/parse_tcp_uri_fuzzer

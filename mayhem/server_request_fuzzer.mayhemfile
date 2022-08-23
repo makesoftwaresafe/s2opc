@@ -1,0 +1,4 @@
+project: PROJECT
+target: server_request_fuzzer
+cmds:
+- cmd: /out/server_request_fuzzer
